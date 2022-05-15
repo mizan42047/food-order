@@ -9,7 +9,6 @@ const MealItem = props => {
                     <div className={styles.description}>{meals.description}</div>
                     <div className={styles.price}>{meals.price.toFixed(2)}</div>
                 </div>
-
                 <div>
                     
                 </div>
